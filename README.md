@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**I like planes ✈**
+**I like planes <✈/>**
 
 ## Languages / Tools
 
