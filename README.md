@@ -2,6 +2,8 @@
 
 **I like planes <✈/>**
 
+I only do this as a hobby, please don't make fun of my shitty code
+
 ## Languages / Tools
 
 <p float=left>
