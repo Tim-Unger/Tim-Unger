@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-**I like planes <✈/>**
-
-I only do this as a hobby, please don't make fun of my shitty code
+Bad Developer
 
 ## Languages / Tools
 
