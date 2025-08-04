@@ -13,7 +13,7 @@ Bad Developer
 
 **Frontend**
 
-<a href="https://nextjs.org/"> <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" height=50/> </a> <a href="https://www.typescriptlang.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" height=50/> </a> <a href="https://tailwindcss.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" height=45/> </a>
+<a href="https://nextjs.org/"> <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" height=50/> </a> <a href="https://www.typescriptlang.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" height=50/> </a> <a href="https://tailwindcss.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" height=45/> </a>
   
 </p>
 
